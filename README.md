@@ -12,7 +12,7 @@ With the increasing number of coronavirus cases day by day it's becoming hard to
 
 1. Clone the repository.
 2. Open in Intellij IDEA or Eclipse
-3. Run <b>CoronavirusTrackerApplication.java<b> located at src/main/java/com/company/coronavirustracker/
+3. Run <b>CoronavirusTrackerApplication.java</b> located at src/main/java/com/company/coronavirustracker/
 4. Open http://localhost:8090/ in your browser. You'll be able to see the web app running as follows:
 
 ![alt text](https://github.com/Anushka-shukla/Trace-Case/blob/main/images/img.jpeg)
