@@ -1,1 +1,1 @@
-web: java -jar target/coronavirus-tracker-0.0.1-SNAPSHOT.jar
+web: java $JAVA_OPTS -cp target/classes:target/m2e-wtp/*.jar com.company.CoronavirusTrackerApplication
