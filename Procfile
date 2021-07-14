@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* com.company.CoronavirusTrackerApplication
+web: java -jar target/coronavirus-tracker-0.0.1-SNAPSHOT.jar
